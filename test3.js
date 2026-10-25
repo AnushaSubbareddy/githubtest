@@ -7,3 +7,4 @@ function add(a, b) {
 assert.equal(add(2, 3), 5);
 console.log("Test passed");
 ///testttt
+//updated as per review comments
